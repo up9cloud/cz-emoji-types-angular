@@ -1,0 +1,13 @@
+language: node_js
+node_js:
+- node
+- 8
+deploy:
+  provider: npm
+  email: "$NPM_EMAIL"
+  api_key:
+    secure: Kc/hBzaC8tLrCFfng5pf3I4EDR2QTzSngs4Pc+7N528zkPehiYdEZLxWHCXJn8fM/uHkQkNGcwX21yA7cYgq08H6GTaOKVHGSJdgr+4Jlh8n2nMd+4cB8CEZyV4LzyNNd2xDmQ3ELC+4K4g7KS4Dn+edoSgYAxGEddRrCDJMtxG9okYDAMEBMylbwTSkLfuRofrcRmjQ6E6B14kIKaBcL5Gd5uyqQXpCgq6xec9MXQLI4yCA9yOWc+C//ascWSaiDZUGnAq3f7kVBLMUIHmfwqWaJ+665rMrUuhNNJvPIjFetAqjPTcJZ+KjF6RhRiqnAF4/Tmk0Pa/Z3+uw1dtoQTCKrWKYjsmGR2RQ6PRaKcvaylsgRwjUlGUn8bpmQDrtRkoldd0x0evXKdBpTY49E9AfG6oqE3smdgRjrX+Z3JcPL2sVS3uK3aH/hy1K/rjkSmFNp1pxdDdLSmI1LZEZT/NFT1mfNHoLvrJXlPvHWJnnhrnbKI0VDHtm3PIxk3b63jnMlP7KV9axwzJHW+0adtqjcveU5Fi8MxpcOglnAz2K8UsXE+zA3EWWrza8FUqCEpjKrhsyxSes/dvtRBMulJjAii+E9S/mcx6ZkAPOWFgzRnaurkcl5F6yrc4keIkIvtMeoeo74YtE91tZSShdAr94YPB3F7LapS4VqsIfJqk=
+  skip_cleanup: true
+  on:
+    repo: up9cloud/cz-emoji-types-angular
+    branch: master

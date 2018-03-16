@@ -1,0 +1,32 @@
+{
+  "name": "cz-emoji-types-angular",
+  "version": "0.0.2",
+  "description": "List of angular commit types for cz-emoji.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/up9cloud/cz-emoji-types-angular.git"
+  },
+  "keywords": [
+    "cz",
+    "commitizen",
+    "types",
+    "angular",
+    "emoji"
+  ],
+  "author": "up9cloud (https://up9cloud.tk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/up9cloud/cz-emoji-types-angular/issues"
+  },
+  "homepage": "https://github.com/up9cloud/cz-emoji-types-angular#readme",
+  "dependencies": {
+    "conventional-commit-types": "^2.2.0"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
