@@ -36,22 +36,22 @@ git add .
 git cz
 ```
 
-## Tell me why _____ with _____?
+## Tell me why _____ with _____ ?
 
-| key       | icon                        | why?                                                          | other options                               |
-| --------- | --------------------------- | ------------------------------------------------------------- | ------------------------------------------- |
-| feat      | 🎉 `:tada:`                  | I'm so excited to announce this feature! tada~                | :sparkles:                                  |
-| fix       | 🐞 `:beetle:`                | Original bug is actually a worm, so i choose another red bug. | :bug:                                       |
-| docs      | 📖 `:book:`                  | This is the shortest work in book-like emojis                 | :books: :notebook: :memo:                   |
-| style     | 🌈 `:rainbow:`               | Style makes world colorful!                                   | :art:                                       |
-| refactor  | 👍 `:+1:`                    | I'm refactoring things, you can cheer me with +1.             | :100:                                       |
-| perf      | 🚀 `:rocket:`                | Launch a rocket, faster than ever!                            | :zap:                                       |
-| test      | 🚥 `:traffic_light:`         | As you know, tests make things green(ok), red(fail)           | :vertical_traffic_light: :white_check_mark: |
-| build     | 🏗 `:building_construction:` | Build, build, build.                                          | :construction_worker:                       |
-| ci        | 🤖 `:robot:`                 | Make ci (auto robot) better!                                  |                                             |
-| chore     | 🍺 `:beer:`                  | I'm doing chores, you should buy me a drink.                  |                                             |
-| revert    | 🔙 `:back:`                  | Nothing special, Revert and `back` to previous version.       | :arrow_left:                                |
-| [DEFAULT] | ❔ `:grey_question:`         | Unknown key.                                                  | :question:                                  |
+| key       | icon                        | why?                                                                |
+| --------- | --------------------------- | ------------------------------------------------------------------- |
+| feat      | 🎉 `:tada:`                  | I'm so excited to announce this feature! tada~                      |
+| fix       | 🐞 `:beetle:`                | Original :bug: is actually a worm, so i choose another red bug.     |
+| docs      | 📖 `:book:`                  | It's shortest word in all book-like emojis. (:books: :notebook:...) |
+| style     | 🌈 `:rainbow:`               | Style makes world colorful!                                         |
+| refactor  | 👍 `:+1:`                    | I'm refactoring things, you can cheer me up with +1.                |
+| perf      | 🚀 `:rocket:`                | Launch a rocket, faster than ever!                                  |
+| test      | 🚥 `:traffic_light:`         | As you know, tests make things green(ok), red(fail)                 |
+| build     | 🏗 `:building_construction:` | Build, build, build.                                                |
+| ci        | 🤖 `:robot:`                 | Make ci (auto robot) better!                                        |
+| chore     | 🍺 `:beer:`                  | I'm doing chores, you should buy me a drink.                        |
+| revert    | 🔙 `:back:`                  | Nothing special, Revert and back to previous version.               |
+| [DEFAULT] | ❔ `:grey_question:`         | Unknown key.                                                        |
 
 ## References
 
