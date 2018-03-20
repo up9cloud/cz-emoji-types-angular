@@ -1,6 +1,6 @@
 {
   "name": "cz-emoji-types-angular",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "List of angular commit types for cz-emoji.",
   "main": "index.js",
   "scripts": {
@@ -28,5 +28,14 @@
   },
   "engines": {
     "node": ">=8"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-emoji"
+    },
+    "cz-emoji": {
+      "types": "cz-emoji-types-angular",
+      "mode": "replace"
+    }
   }
 }
