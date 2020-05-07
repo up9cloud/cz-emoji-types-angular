@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/up9cloud/cz-emoji-types-angular#readme",
   "dependencies": {
-    "conventional-commit-types": "^2.2.0"
+    "conventional-commit-types": "^3.0.0"
   },
   "engines": {
     "node": ">=8"
